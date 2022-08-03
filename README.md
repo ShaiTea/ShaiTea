@@ -1,6 +1,6 @@
 <div align="center">
   <hr> </hr>
-<img src="https://acegif.com/wp-content/gifs/tea-14.gif width="400" height="444"" alt="текст">
+<img src="https://acegif.com/wp-content/gifs/tea-14.gif" width="400" height="444" alt="текст">
 <hr> </hr>
 </div>
 
