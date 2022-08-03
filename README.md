@@ -1,5 +1,5 @@
-### Welcome
-<img src="https://acegif.com/wp-content/gifs/tea-14.gif" alt="текст">
+<center>### Welcome</center>
+<center><img src="https://acegif.com/wp-content/gifs/tea-14.gif" alt="текст"></center>
 
 <!--
 **ShaiTea/ShaiTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
