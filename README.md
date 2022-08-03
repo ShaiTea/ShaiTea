@@ -1,4 +1,4 @@
-<center>### Welcome</center>
+<div style="text-align:center;">"Welcome"</div>
 <center><img src="https://acegif.com/wp-content/gifs/tea-14.gif" alt="текст"></center>
 
 <!--
