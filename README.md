@@ -1,9 +1,10 @@
 <div align="center">
+  <hr> </hr>
 <i>
 Welcome!
 </i>
-</div>
 <img src="https://acegif.com/wp-content/gifs/tea-14.gif" alt="текст">
+</div>
 
 <!--
 **ShaiTea/ShaiTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
